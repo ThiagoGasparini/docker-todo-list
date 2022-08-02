@@ -6,7 +6,7 @@ Neste projeto, o objetivo foi:
 2. Criar uma conexão entre elas;
 3. Orquestrar seu funcionamento.
 
-Temos [uma aplicação full-stack](docker/todo-app) neste repositório: um **aplicativo de tarefas**! Esta aplicação precisa ser conteinerizada para funcionar. Você deverá desenvolver os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e, no nosso caso, para um aplicativo de `teste` que valida se as aplicações estão se comunicando.
+Temos [uma aplicação full-stack](docker/todo-app) neste repositório: um **aplicativo de tarefas**! Esta aplicação precisou ser conteinerizada para funcionar. Foi desenvolvidos os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e, no nosso caso, para um aplicativo de `teste` que valida se as aplicações estão se comunicando.
 
 Objetivo foi criar imagens para as aplicações e configurar essas imagens com o `docker-compose`.
 
